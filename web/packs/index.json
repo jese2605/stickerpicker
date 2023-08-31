@@ -1,6 +1,5 @@
 {
   "packs": [
-    "test.json"
   ],
   "homeserver_url": "https://one.ems.host"
 }

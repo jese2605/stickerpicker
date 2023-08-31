@@ -1,5 +1,27 @@
 {
   "packs": [
+    "AMOGUS.json",
+    "Brnyyy.json",
+    "Cats.json",
+    "Communism.json",
+    "Deutsch.json",
+    "Doggos.json",
+    "Emoji.json",
+    "Formula1.json",
+    "Insider.json",
+    "Legenden.json",
+    "Luc.json",
+    "Marvin.json",
+    "Memes.json",
+    "Minecraft.json",
+    "Netstedt.json",
+    "Others.json",
+    "Pokemon.json",
+    "SnoopDogg.json",
+    "Spongebob.json",
+    "StarWars.json",
+    "Text.json",
+    "Trollfaces.json"
   ],
   "homeserver_url": "https://one.ems.host"
 }
